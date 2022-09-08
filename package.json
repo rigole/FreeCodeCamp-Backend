@@ -1,10 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Foleu Placide Rigole",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Foleu Placide Rigole",
 	"scripts": {
 		"start": "node server.js"
 	},
