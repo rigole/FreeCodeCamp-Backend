@@ -3,6 +3,7 @@
 	"author": "Foleu Placide Rigole",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp","certification","backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
